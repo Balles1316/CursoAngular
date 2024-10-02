@@ -1,0 +1,24 @@
+#contenedor{
+    border-color: red;
+}
+.error{
+    color : red ;
+}
+p strong span{
+    color: blue;
+}
+td, th {
+    border: 1px solid black; /* Define bordes para las celdas */
+}
+.verde{
+    color: greenyellow;
+}
+.amarillo{
+    color: yellow;
+}
+.azul{
+    color: aqua;
+}
+.rojo{
+    color: red;
+}
